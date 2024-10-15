@@ -199,7 +199,7 @@ export default function ProductResults() {
       </div>
 
       <div className="results-summary">
-        <p>Showing {filteredProducts.length} results for "jacket"</p>
+        <p>Showing {filteredProducts.length} results for jacket</p>
       </div>
 
       <div className="product-grid">
